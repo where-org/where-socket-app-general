@@ -1,7 +1,7 @@
 {
   "name": "@where-org/where-socket-app-general",
-  "version": "2.0.0",
-  "description": "",
+  "version": "2.0.1",
+  "description": "A WebSocket module for where-socket",
   "license": "MIT",
   "author": "Masafumi Sasahara <masafumi@sashara.io> (https://github.com/masafumi-sasahara/)",
   "homepage": "https://where-org.com/",
@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/where-org/where-socket-app-general.git"
   },
+  "keywords": [
+    "where-socket", "where-socket-app-module", "websocket", "ws"
+  ],
   "type": "module",
   "main": "index.js"
 }
